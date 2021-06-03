@@ -108,7 +108,10 @@ An additional use is drawing language inferences from visual cues, or "lip readi
 
 
 Here you go! This was a simple way to detect faces, eyes, and happiness.
-
+<p align="center">
+<img src="https://learnopencv.com/wp-content/uploads/2017/02/real-time-face-tracking.gif"
+ alt="Logo" width="350" height="300">
+</p>
 
 ## Contact
 
